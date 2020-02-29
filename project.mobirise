@@ -31,7 +31,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.12.2",
     "siteFonts": [],
-    "favicon": "@PROJECT_PATH@/assets/images/screen-shot-2020-02-29-at-10.14.15.png",
+    "favicon": "@PROJECT_PATH@/assets/images/screen-shot-2020-02-29-at-10.14.15-1.png",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
