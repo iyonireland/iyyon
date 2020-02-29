@@ -31,7 +31,15 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.12.2",
     "siteFonts": [],
-    "uniqCompNum": 8,
+    "favicon": "@PROJECT_PATH@/assets/images/screen-shot-2020-02-29-at-10.14.15.png",
+    "imageResize": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "uniqCompNum": 9,
     "versionPublish": "4.12.2"
   },
   "pages": {
