@@ -711,13 +711,18 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-rRSMkr6k5Z {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/mbr.jpg");
 }
 .cid-rRSMkr6k5Z P {
   color: #767676;
 }
 .cid-rRSMkr6k5Z H1 {
   text-align: center;
+  color: #ffffff;
+}
+.cid-rRSMkr6k5Z .mbr-text,
+.cid-rRSMkr6k5Z .mbr-section-btn {
+  color: #efefef;
 }
